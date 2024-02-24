@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41554983317",
+    "firebase_url": "https://gameineffabledev-default-rtdb.firebaseio.com",
+    "project_id": "gameineffabledev",
+    "storage_bucket": "gameineffabledev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41554983317:android:3cc62d6cac3047303d1e9c",
+        "android_client_info": {
+          "package_name": "com.IneffableDev.PlatformerGameDev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41554983317-bopcngbkcb0erfvrh09t9pfv596t81mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiKy-wPQrQmLXUUq-AkXGZeWkrK2Z0hYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41554983317-bopcngbkcb0erfvrh09t9pfv596t81mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
